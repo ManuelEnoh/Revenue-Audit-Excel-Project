@@ -1,5 +1,5 @@
 # Revenue-Audit-Excel-Project
-Projet Excel en analyse financière
+Projet Excel en analyse financière : Mémo Excel final disponible à la demande.
 Projet d’Audit du Chiffre d’Affaires – Excel
 Présentation du projet
 
